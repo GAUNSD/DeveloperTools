@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Colorsublime",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"LESS",
+		"Package Control",
+		"RawLineEdit",
+		"SublimeLinter",
+		"Text Pastry"
+	]
+}
